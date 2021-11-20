@@ -1,6 +1,5 @@
 ---
-title: Example Talk
-
+title: ALSH Conference
 event: Wowchemy Conference
 event_url: https://example.org
 

@@ -6,8 +6,7 @@ title: Rana Osman (吳恩達)
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: PhD Student in Law
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Stanford University
